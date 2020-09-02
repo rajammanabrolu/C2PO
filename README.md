@@ -1,4 +1,4 @@
-#C2PO
+# C2PO
 
 Code accompanying the paper ["Automated Storytelling via Causal, Commonsense Plot Ordering"](http://arxiv.org/abs/).
 

@@ -1,0 +1,1 @@
+rm fairy.txt; for file in ../../stories/fairy/*; do python extract.py --file "$file" --outfile fairy.txt ; done; rm mystery.txt; for file in ../../stories/mystery/*; do python extract.py --file "$file" --outfile mystery.txt ; done
